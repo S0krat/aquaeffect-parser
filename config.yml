@@ -1,0 +1,41 @@
+kalkun_url:
+suib_url:
+username:
+password:
+objects:
+  - name: SelfClub
+    format:
+      Cu1: 0
+      Ag1: 1
+      Cu2: 2
+      Cu3: 3
+  - name: Велна Большой
+  - name: Велна Малый
+  - name: Гагарина Капитан
+  - name: Гагарина Юнга
+  - name: Здоровье
+  - name: Крона
+  - name: Лесная Новь
+  - name: Маяк Большой
+  - name: Маяк Малый
+  - name: Митино
+    suib: 8k-Митино_Новый
+  - name: Молодежный
+  - name: Перовская Капитан
+  - name: Перовская Юнга
+  - name: Политехник
+  - name: Политехник Сауна
+    suib: 8k-Сауна
+  - name: Прогресс 320
+  - name: Прогресс 60
+  - name: Радуга
+    suib: 8k-Радуга
+  - name: Романов Лес
+  - name: Романов Лес (улица)
+#  - name: Сосны
+  - name: СпортПаркСемья
+  - name: ФОК Сосновый
+  - name: Холмогорова
+    format:
+      Ag2: 3
+  - name: Чувашия

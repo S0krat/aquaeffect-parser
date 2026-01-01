@@ -5,7 +5,7 @@ import Log
 
 def kalkun_login(driver: WebDriver, config: dict) -> None:
     Log.info("Вход в аккаунт")
-    driver.get(config['url'])
+    driver.get(config['kalkun_url'])
 
     login_element = driver.find_element(By.NAME, "username")
     login_element.clear()
